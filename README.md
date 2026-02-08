@@ -1,4 +1,4 @@
-# Plan B – Career Guidance Platform
+# Masar – Career Guidance Platform
 
 Smart career guidance platform for youth.
 
@@ -10,7 +10,7 @@ Many young people struggle with choosing the right career path due to a lack of 
 ---
 
 ## 💡 Solution
-Plan B is a smart career guidance platform that helps users discover their interests, build personalized career paths, and prepare for real job opportunities aligned with the local job market.
+Masar is a smart career guidance platform that helps users discover their interests, build personalized career paths, and prepare for real job opportunities aligned with the local job market.
 
 ---
 
@@ -22,14 +22,14 @@ Plan B is a smart career guidance platform that helps users discover their inter
 ---
 
 ## 🧠 Unique Value
-Plan B starts from confusion and ends with job readiness.  
+Masar starts from confusion and ends with job readiness.  
 It combines self-discovery, guidance, learning, and market alignment in one clear journey.
 
 ---
 
 ## 🎨 Branding Concept
 The brand focuses on clarity, support, and simplicity.  
-Plan B represents hope, redirection, and a fresh professional start through a clean, friendly, and trustworthy visual identity.
+Masar represents hope, redirection, and a fresh professional start through a clean, friendly, and trustworthy visual identity.
 
 ---
 
